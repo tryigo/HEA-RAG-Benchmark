@@ -1,0 +1,101 @@
+﻿Question_ID,Type,Category,Question
+Q001,A,Fact & Quantitative,Cantor等2004年报道的经典五元等原子比合金由哪些元素组成？其主要晶体结构是什么？
+Q002,A,Fact & Quantitative,Cantor等2004年的结果中，16组元和20组元等比例合金与五元CoCrFeMnNi合金在相组成和脆性方面有何差异？
+Q003,A,Fact & Quantitative,Yeh等2004年提出的高熵合金设计思想与传统合金设计的核心差别是什么？
+Q004,A,Fact & Quantitative,理想等原子比五元合金的构型混合熵ΔS_mix是多少？请以R为单位，并给出R=8.314 J·mol⁻¹·K⁻¹时的数值。
+Q005,A,Fact & Quantitative,理想等原子比六元合金的构型混合熵ΔS_mix是多少？请以R为单位，并给出数值。
+Q006,A,Fact & Quantitative,根据Guo等2011年的VEC经验判据，FCC和BCC固溶体分别倾向于在哪些VEC范围稳定？
+Q007,A,Fact & Quantitative,若某多主元合金按Guo等方法计算得到VEC=8.20，仅依据该经验判据，其晶体结构倾向是什么？
+Q008,A,Fact & Quantitative,若某多主元合金VEC=6.50，仅依据Guo等2011年的判据，其晶体结构倾向是什么？
+Q009,A,Fact & Quantitative,Yang和Zhang提出的Ω-δ经验判据中，高熵稳定固溶体形成的典型阈值是什么？
+Q010,A,Fact & Quantitative,写出Ω参数的定义，并说明它所比较的两个主要热力学因素。
+Q011,A,Fact & Quantitative,Wang等2012年研究的AlxCoCrFeNi体系中，随着Al含量升高，晶体结构总体如何演化？
+Q012,A,Fact & Quantitative,Wang等2012年AlxCoCrFeNi研究中，x的研究范围和主要制备方法是什么？
+Q013,A,Fact & Quantitative,Wang等2012年报道的Al0.9CoCrFeNi合金有何代表性硬度和组织特征？
+Q014,A,Fact & Quantitative,Li等2018年高通量激光沉积AlxCoCrFeNi研究中，x的范围和样品数量是多少？
+Q015,A,Fact & Quantitative,Li等2018年的高通量AlxCoCrFeNi研究中，随Al增加观察到的主要相结构演化是什么？
+Q016,A,Fact & Quantitative,Senkov等2010年首次系统研究的两种典型难熔高熵合金组成是什么？采用何种制备方法？
+Q017,A,Fact & Quantitative,Senkov等2011年研究的Nb25Mo25Ta25W25和V20Nb20Mo20Ta20W20在结构与高温稳定性方面有何共同特点？
+Q018,A,Fact & Quantitative,Senkov等2011年报道的Nb25Mo25Ta25W25在600 °C和1600 °C的屈服应力约为多少？趋势如何？
+Q019,A,Fact & Quantitative,Otto等2013年对CoCrFeMnNi拉伸性能研究覆盖了怎样的温度范围？研究重点是什么？
+Q020,A,Fact & Quantitative,Gludovatz等2014年研究的CrMnFeCoNi高熵合金在低温断裂性能方面的核心发现是什么？
+Q021,B,Mechanism Explanation,为什么CoCrFeMnNi高熵合金在降低到低温时可以出现“强度提高而塑性并未明显牺牲”的反常协同？
+Q022,B,Mechanism Explanation,低温变形孪生对Cantor合金加工硬化和断裂抗力的作用是什么？
+Q023,B,Mechanism Explanation,为什么仅凭“FCC结构”不能直接断言某高熵合金一定具有优异低温韧性？
+Q024,B,Mechanism Explanation,从经验电子结构角度解释为什么在AlxCoCrFeNi中增加Al会促进BCC/B2相关结构形成。
+Q025,B,Mechanism Explanation,为什么Al增加常使AlxCoCrFeNi硬度提高？请结合相结构变化说明。
+Q026,B,Mechanism Explanation,为什么VEC判据适合用于相结构“筛选”，但不能作为最终实验相鉴定依据？
+Q027,B,Mechanism Explanation,混合熵高为什么并不意味着高熵合金一定形成单一固溶体？
+Q028,B,Mechanism Explanation,Ω参数为什么要同时包含ΔS_mix和ΔH_mix？
+Q029,B,Mechanism Explanation,原子尺寸差δ过大为何不利于形成稳定的简单随机固溶体？
+Q030,B,Mechanism Explanation,为什么难熔HEA常被研究用于高温结构材料？
+Q031,B,Mechanism Explanation,为什么难熔BCC高熵合金“高温强度高”不能直接等同于“综合结构性能一定优于Ni基高温合金”？
+Q032,B,Mechanism Explanation,Senkov等为什么采用真空电弧熔炼制备W-Nb-Mo-Ta-(V)难熔高熵合金？
+Q033,B,Mechanism Explanation,为什么“没有超晶格反射”可支持Senkov等将NbMoTaW类结构描述为无序BCC？
+Q034,B,Mechanism Explanation,Granberg等2016年为何认为化学复杂度能够减少辐照损伤积累？
+Q035,B,Mechanism Explanation,为什么辐照研究中不能只比较“缺陷总数”，还需要考虑缺陷迁移和聚集机制？
+Q036,B,Mechanism Explanation,为什么激光沉积AlxCoCrFeNi与传统铸态合金即使成分相近，也可能出现不同的相区范围？
+Q037,B,Mechanism Explanation,为什么在比较两篇高熵合金力学性能论文时，必须同时核对热处理状态、晶粒尺寸和测试温度？
+Q038,B,Mechanism Explanation,为什么“同一化学成分”并不能保证得到相同硬度或强度？
+Q039,B,Mechanism Explanation,从Wang等2012年的结果说明“相组成”为什么可能比单纯Al含量更直接关联硬度。
+Q040,B,Mechanism Explanation,为什么多主元设计本身不能保证材料具有“高熵效应主导”的单相结构？
+Q041,C,Cross-literature Synthesis,比较Yeh等和Cantor等2004年两项工作的主要贡献，并说明它们为何共同构成高熵/多主元合金研究的重要起点。
+Q042,C,Cross-literature Synthesis,若用于初步筛选一个未知多主元合金是否可能形成简单固溶体，应如何联合使用VEC、Ω和δ？同时说明局限性。
+Q043,C,Cross-literature Synthesis,比较Cantor型CoCrFeMnNi与AlxCoCrFeNi两类体系的典型相结构特点及主要控制因素。
+Q044,C,Cross-literature Synthesis,从应用角度比较FCC Cantor合金与W-Nb-Mo-Ta-(V)难熔BCC高熵合金的主要优势和局限。
+Q045,C,Cross-literature Synthesis,用Otto等2013年和Gludovatz等2014年的结果概括Cantor合金从室温到低温的主要力学性能变化。
+Q046,C,Cross-literature Synthesis,结合Cantor 2004和Wang 2012的结果，说明“多主元合金倾向形成简单固溶体”为什么不能理解为“所有HEA都是单相”。
+Q047,C,Cross-literature Synthesis,比较Wang等2012年铸态AlxCoCrFeNi与Li等2018年激光沉积AlxCoCrFeNi，说明加工路径如何影响相稳定判断。
+Q048,C,Cross-literature Synthesis,构建“Al含量增加→相结构变化→组织变化→硬度变化”的因果链，解释AlxCoCrFeNi中的硬化趋势。
+Q049,C,Cross-literature Synthesis,为什么Cantor合金适合作为“低温强韧化协同”的典型案例？请给出至少三条实验依据。
+Q050,C,Cross-literature Synthesis,为什么NbMoTaW类难熔HEA适合作为“高温强度保持”的典型案例？请同时指出至少一个局限。
+Q051,C,Cross-literature Synthesis,Granberg等2016年的研究为“高熵/多主元合金可能具有抗辐照优势”提供了怎样的证据链？
+Q052,C,Cross-literature Synthesis,VEC能够回答哪些相稳定问题？哪些问题不能仅靠VEC回答？请结合AlxCoCrFeNi举例。
+Q053,C,Cross-literature Synthesis,已知某等原子比四元合金各元素VEC分别为10、9、8和6，计算平均VEC，并仅依据Guo判据判断其结构倾向。
+Q054,C,Cross-literature Synthesis,比较两个候选合金：A的VEC=8.1、Ω=1.30、δ=5.2%；B的VEC=6.5、Ω=0.80、δ=7.2%。仅依据Guo与Yang-Zhang经验判据，哪个更值得优先作为简单固溶体候选？为什么？
+Q055,C,Cross-literature Synthesis,如果要从文献中选择“低温承载”和“超高温承载”两类HEA候选材料，应采用怎样的证据优先级？请分别给出一个代表体系。
+Q056,D,Insufficient Information,请给出“等原子比CoCrFeMnNi合金”在室温下唯一确定的屈服强度值，精确到1 MPa；题目不提供加工状态、晶粒尺寸或热处理条件。
+Q057,D,Insufficient Information,请给出CoCrFeMnNi高熵合金的唯一疲劳寿命（循环次数），但不提供应力幅、应力比R、频率、表面状态或温度。
+Q058,D,Insufficient Information,请给出AlCoCrFeNi高熵合金的唯一腐蚀速率（mm/year），但不说明腐蚀介质、温度、pH或表面状态。
+Q059,D,Insufficient Information,请给出Co在CoCrFeMnNi中的唯一扩散系数D，但不说明温度、相状态和测量方法。
+Q060,D,Insufficient Information,请给出某HEA在辐照后的唯一体积肿胀率，但不提供粒子类型、能量、剂量(dpa)、辐照温度或初始组织。
+Q061,D,Insufficient Information,请给出Al0.5CoCrFeNi中FCC和BCC相的唯一体积分数，但不提供铸态/退火状态和热处理制度。
+Q062,D,Insufficient Information,请给出Nb25Mo25Ta25W25在室温下唯一确定的维氏硬度值，但不提供制备状态、载荷和保载时间。
+Q063,D,Insufficient Information,请给出CrMnFeCoNi在77 K下唯一确定的断裂韧度KIC，精确到1 MPa·m^1/2，但不说明试样尺寸、裂纹几何和微观组织。
+Q064,D,Insufficient Information,“哪一种高熵合金是核反应堆中最好的材料？”请给出唯一合金名称，不允许讨论工况差异。
+Q065,D,Insufficient Information,请给出AlxCoCrFeNi的唯一密度值，但x未指定。
+Q066,D,Insufficient Information,请给出某难熔高熵合金的唯一1000 h蠕变断裂寿命，但不提供温度和应力。
+Q067,D,Insufficient Information,请给出AlCoCrFeNi在空气中的唯一氧化寿命，但不说明温度、时间判据和氧分压。
+Q068,D,Insufficient Information,请给出“典型高熵合金”的唯一FCC→BCC相变温度。
+Q069,D,Insufficient Information,请给出CoCrFeMnNi拉伸后的唯一位错密度，但不说明塑性应变、温度和初始组织。
+Q070,D,Insufficient Information,请给出Cantor合金的唯一短程有序(SRO)参数，但不说明温度、原子对、SRO定义或测量/计算方法。
+Q071,A,Fact & Quantitative,理想等原子比四元合金的构型混合熵 ΔS_mix 是多少？请以 R 为单位，并给出 R=8.314 J·mol⁻¹·K⁻¹ 时的数值。
+Q072,A,Fact & Quantitative,理想等原子比八元合金的构型混合熵 ΔS_mix 是多少？请以 R 为单位，并给出数值。
+Q073,A,Fact & Quantitative,若某多主元合金按 Guo 等的 VEC 判据计算得到 VEC=7.40，仅依据该经验判据，其晶体结构倾向应如何判断？
+Q074,A,Fact & Quantitative,若某多主元合金的 VEC 恰好为 8.00，仅依据 Guo 等的经验判据，应判定为何种结构倾向？
+Q075,A,Fact & Quantitative,若某多主元合金的 VEC 恰好为 6.87，仅依据 Guo 等的经验判据，应如何判断其结构倾向？
+Q076,A,Fact & Quantitative,某多主元合金的 Ω=1.25、δ=6.0%。仅依据 Yang-Zhang 的 Ω-δ 经验判据，该合金是否满足高熵稳定固溶体的典型筛选条件？
+Q077,A,Fact & Quantitative,某多主元合金的 Ω=1.05、δ=5.5%。仅依据 Yang-Zhang 的 Ω-δ 经验判据，该合金是否满足典型固溶体筛选条件？主要限制来自哪个参数？
+Q078,A,Fact & Quantitative,Senkov 等报道 Nb25Mo25Ta25W25 在 600 °C 和 1600 °C 的屈服应力约为 561 MPa 和 405 MPa。根据这两个数值计算屈服应力降低量及相对于 600 °C 的降幅。
+Q079,A,Fact & Quantitative,Wang 等 2012 年与 Li 等 2018 年的 AlxCoCrFeNi 研究分别覆盖约多少种不同 Al 含量合金？后者比前者多多少种？
+Q080,A,Fact & Quantitative,Otto 等研究 CoCrFeMnNi 拉伸性能的温度范围约为 77-1073 K。该测试范围跨度约为多少 K？
+Q081,B,Mechanism Explanation,为什么 VEC 与 Ω-δ 判据在多主元合金相稳定筛选中具有互补性，而不能简单互相替代？
+Q082,B,Mechanism Explanation,为什么一个 VEC=7.40 的多主元合金不能仅凭 VEC 就断定其一定形成 FCC+BCC 双相结构？
+Q083,B,Mechanism Explanation,为什么 VEC 能反映 FCC/BCC 的经验稳定倾向，却不能单独判断 AlxCoCrFeNi 中是否形成有序 B2 相？
+Q084,B,Mechanism Explanation,为什么快速激光加工可能使 AlxCoCrFeNi 的 FCC 稳定范围与传统铸态材料不同？
+Q085,B,Mechanism Explanation,为什么比较不同文献报道的 CoCrFeMnNi 屈服强度时，晶粒尺寸差异会成为必须核对的变量？
+Q086,B,Mechanism Explanation,为什么低温变形孪生能够提高 Cantor 合金的加工硬化能力，但不能把其优异低温韧性完全归因于孪生这一单一因素？
+Q087,B,Mechanism Explanation,为什么 NbMoTaW 类难熔高熵合金在高温下保持 BCC 结构和较高屈服强度，仍不能据此直接预测其长期蠕变寿命？
+Q088,B,Mechanism Explanation,为什么 Granberg 等关于化学复杂度降低辐照损伤积累的结论不能直接推广为“所有高熵合金都具有优异抗辐照性能”？
+Q089,B,Mechanism Explanation,为什么相同名义成分的 AlxCoCrFeNi 在激光沉积和真空电弧熔炼条件下可能具有不同的相组成和硬度？
+Q090,B,Mechanism Explanation,为什么 Wang 等观察到 Al0.9CoCrFeNi 的高硬度后，不能简单得出“Al 含量越高，硬度必然越高”的结论？
+Q091,C,Cross-literature Synthesis,候选合金 X 的 VEC=8.1、Ω=1.20、δ=6.0%；候选合金 Y 的 VEC=6.6、Ω=1.30、δ=6.2%。仅依据 Guo 与 Yang-Zhang 经验判据，分别说明两者的固溶体形成倾向和可能的 FCC/BCC 结构倾向，并指出能否仅凭这些参数判定哪一种最终一定为单相。
+Q092,C,Cross-literature Synthesis,若要论证 Cantor 合金适合低温承载，请结合 Otto 等和 Gludovatz 等研究构建一条从拉伸行为、变形机制到断裂性能的证据链。
+Q093,C,Cross-literature Synthesis,对于 77 K 低温承载和约 1600 °C 超高温承载两个场景，分别选择 Cantor 型 FCC 合金和 NbMoTaW 类难熔 BCC 合金是否合理？请结合已有文献说明选择依据及各自需要额外验证的风险。
+Q094,C,Cross-literature Synthesis,综合 Wang 等 2012 年和 Li 等 2018 年的 AlxCoCrFeNi 研究，说明两项工作在“Al 增加促进 BCC/B2 相关结构形成”这一趋势上有哪些一致性，同时为什么具体相区边界不能直接互相替代。
+Q095,C,Cross-literature Synthesis,结合 Cantor 合金、AlxCoCrFeNi、NbMoTaW 类难熔高熵合金和多组元抗辐照研究，说明为什么“高熵合金”这一名称本身不能作为材料性能优劣的充分判据。
+Q096,D,Insufficient Information,请给出 Al0.9CoCrFeNi 合金唯一确定的室温极限抗拉强度，精确到 1 MPa，但不说明铸态/热处理状态、晶粒尺寸或拉伸试样条件。
+Q097,D,Insufficient Information,请给出 Al1.0CoCrFeNi 中 B2 相唯一确定的体积分数，但不说明制备方法、冷却速率和后续热处理状态。
+Q098,D,Insufficient Information,请给出 Cantor 合金达到“抗辐照失效”的唯一临界剂量（dpa），但不说明辐照粒子、能量、温度、剂量率和失效判据。
+Q099,D,Insufficient Information,“哪一种高熵合金最适合航空发动机涡轮叶片？”请给出唯一合金名称，但不提供服役温度、氧化环境、载荷、密度限制和寿命要求。
+Q100,D,Insufficient Information,请给出 Co 在 CoCrFeMnNi 中唯一确定的扩散激活能，但不说明扩散机制、温度区间、相状态及实验/计算方法。
